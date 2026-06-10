@@ -10,11 +10,11 @@ const SENHA_PAINEL = "PortoSeguro2026";
 
 // Mapeamento dos Preços Cadastrados na sua Stripe (Substitua pelos seus IDs reais)
 const MAPA_DE_PRECOS = {
-    "49.97": "price_1M_EXEMPLO_49",
-    "54.97": "price_1M_EXEMPLO_54",
-    "59.97": "price_1M_EXEMPLO_59",
-    "64.97": "price_1M_EXEMPLO_64",
-    "69.97": "price_1M_EXEMPLO_69"
+    "49.97": "price_1TgmoOLoWjyNFHmKxmHk7UKp",
+    "54.97": "price_1TgmoOLoWjyNFHmKNL4EruYe",
+    "59.97": "price_1TgmoOLoWjyNFHmKcd9SwDeq",
+    "64.97": "price_1TgmoOLoWjyNFHmKIMrCxr6h",
+    "69.97": "price_1SvQ1WLoWjyNFHmKZiP0qsRP"
 };
 
 // 1. ROTA DO PAINEL DO VENDEDOR (HTML VISUAL)
